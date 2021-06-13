@@ -1,0 +1,12 @@
+[
+    {
+            "AddObject": {
+            "Uri": "s3://amazon-reviews-pds/parquet/product_category=Music/part-00001-495c48e6-96d6-4650-aa65-3c36a3516ddd.c000.snappy.parquet",
+            "ETag": "692a5d993b35c12befe6eef06079d150-35",
+            "Size": 290061737,
+            "PartitionValues": [
+                "Music"
+           ]
+       }
+    }
+]

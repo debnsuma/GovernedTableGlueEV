@@ -1,0 +1,12 @@
+[
+    {
+        "AddObject": {
+            "Uri": "s3://amazon-reviews-pds/parquet/product_category=Toys/part-00001-495c48e6-96d6-4650-aa65-3c36a3516ddd.c000.snappy.parquet",
+            "ETag": "5177d6a3e64ec024dd650c2f1ccc9a3f-16",
+            "Size": 126730698,
+            "PartitionValues": [
+                "Toys"
+            ]
+        }
+    }
+]
